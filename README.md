@@ -2,7 +2,7 @@
 
 The following application serves as a way to log and track the players on your fantasy basketball team.
 
-The application's backend was built with **Springboot**, **MySQL** serves as the relational database, managing and storing data, and the frontend was developed using **React**.
+The application's backend was built with **Spring Boot**, **MySQL** serves as the relational database, managing and storing data, and the frontend was developed using **React**.
 
 ## Features
 
